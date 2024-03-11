@@ -1,24 +1,38 @@
 # Nome da Actions:  
 name: Snake Game
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
+# Controlador de tempo para a atualização periódica dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
+    # Atualizar a cada 5 horas.
     - cron: "0 */5 * * *"
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch: actions/checkout@v2, crazy-max/ghaction-github-pages@v2.1.3
+
+# Permite a execução na lista de Actions (utilizado para testes de build).
+on:
+  workflow_dispatch:
+    actions:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+
 
 # Regras
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Ação 1
+        run: echo "Executando ação 1"
+      - name: Ação 2
+        run: echo "Executando ação 2"
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+
+  # Verifica el repositorio bajo $GITHUB_WORKSHOP para que tu trabajo pueda acceder a él
       - uses: actions/checkout@v2
       - uses: crazy-max/ghaction-github-pages@v2.1.3
+
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
@@ -37,12 +51,12 @@ jobs:
 
 
       # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+      name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      branch: main # Substitua "master" pelo nome da sua branch, se aplicável
+      force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
