@@ -31,7 +31,10 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git status
+      - run: echo "::set-output name=MY_OUTPUT::some-value"
+      - run: echo "MY_OUTPUT=some-value" >> $GITHUB_ENV
+
+
 
       # Para as atualizações.
       - name: Push changes
