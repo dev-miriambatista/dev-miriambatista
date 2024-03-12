@@ -1,7 +1,7 @@
 ### Olá, eu sou a Miriam Batista🙌🏻
 
-- 🌱Busco minha primeira oportunidade na área de desenvolvimento web como iniciante.
-- 📚Atualmente estudo HTML-CSS(Curso em Vídeo) ,em média 6 h/dia.
+- 🌱Busco minha primeira oportunidade na área de desenvolvimento Web Front End
+- 📚Atualmente estudo HTML-CSS @cursoemvideo ,em média 6 h/dia.
 - 📧Meu contato via-e-mail é: dev.miriambatista@gmail.com.
 
 
