@@ -21,3 +21,42 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-miriambatista/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Perfil</title>
+
+  <!-- Adicione o link do estilo da cobrinha gerada -->
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/dev-miriambatista/<seu-repositorio>/main/dist/github-contribution-grid-snake.css">
+
+  <!-- Adicione estilos adicionais, se necessário -->
+  <style>
+    /* Exemplo de estilos adicionais */
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+
+    .cobrinha {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Adicione o conteúdo do seu perfil abaixo, se necessário -->
+  <h1>Meu Perfil</h1>
+
+  <!-- Adicione o HTML da cobrinha -->
+  <div class="cobrinha">
+    <img src="https://raw.githubusercontent.com/dev-miriambatista/<seu-repositorio>/main/dist/github-contribution-grid-snake-rosa.svg" alt="Minha Cobrinha Rosa">
+  </div>
+</body>
+
+</html>
+
+
