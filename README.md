@@ -1,11 +1,11 @@
 ### Olá, eu sou a Miriam Batista🙌🏻
 
-![Miriam GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-miriambatista&theme=date_night&show_icons=true)
-
-- 🌱Busco minha primeira oportunidade na área de desenvolvimento web na função de iniciante.
-- 📚Atualmente estudo HTML-CSS(Curso em Vídeo), na média de 6 horas/dia.
+- 🌱Busco minha primeira oportunidade na área de desenvolvimento web como iniciante.
+- 📚Atualmente estudo HTML-CSS(Curso em Vídeo) ,em média 6 h/dia.
 - 📧Meu contato via-e-mail é: dev.miriambatista@gmail.com.
 
+
+![Miriam GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-miriambatista&theme=date_night&show_icons=true)
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
