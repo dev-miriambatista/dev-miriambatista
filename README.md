@@ -6,8 +6,8 @@
 
 <div>
 <a href="https://github.com/dev-miriambatista">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-miriambatista&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-miriambatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-miriambatista&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-miriambatista&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
   <div> 
