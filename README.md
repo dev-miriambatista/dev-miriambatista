@@ -1,7 +1,14 @@
 ### Olá, eu sou a Miriam Batista🙌🏻
 
-- 🌱Busco minha primeira oportunidade na área de desenvolvimento Web Front End
-- 📚Atualmente estudo HTML-CSS @cursoemvideo ,em média 6 h/dia.
+3º periodo de Análise e Desenvolvimento de Sistemas
+
+Desenvolvedora em formação com foco em Dados e Back-end
+
+Construo soluções com:
+SQL e modelagem de dados
+Power BI e visualização estratégica
+PHP e APIs
+JavaScript para interatividade
 - 📧Meu contato via-e-mail é: dev.miriambatista@gmail.com.
 
 <div>
