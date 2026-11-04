@@ -6,7 +6,7 @@
 
 
 
-Desenvolvedora Web em formação, cursando **Análise e Desenvolvimento de Sistemas** no SENAC PR — São José dos Pinhais (4º semestre).
+Desenvolvedora Full Stack em formação, cursando **Análise e Desenvolvimento de Sistemas** no SENAC PR — São José dos Pinhais (4º semestre).
 
 
 
